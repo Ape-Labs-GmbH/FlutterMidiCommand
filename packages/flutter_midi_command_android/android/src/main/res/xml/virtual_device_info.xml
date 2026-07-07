@@ -1,6 +1,6 @@
 
 <devices>
-    <device name="FlutterMidiCommand" manufacturer="InvisibleWrench" product="FlutterMidiCommand">
+    <device name="Ape Labs CONNECT" manufacturer="Ape Labs" product="Ape Labs CONNECT">
         <input-port name="input" />
         <output-port name="output" />
     </device>
